@@ -1,4 +1,8 @@
-#Pokemon Codex  
-Description:
-I made a simple website that fetches data from PokeAPI. It has two main functionalities. It can be used to search for a Pokémon or select a random one from the API with a
-Randomizer button.
+# Pokémon Codex
+
+## Description
+I made a simple website that fetches data from the PokéAPI. It has two main functionalities:
+
+1. Search for a Pokémon by name or ID.
+2. Select a random Pokémon using the Randomizer button.
+
