@@ -1,0 +1,9 @@
+I learned a lot from this personal Project. 
+I learned how to fetch data from a public api.
+I learned about promises.
+I got to practice Try/catch.
+I learned how to use Async.
+I got to practice the map method which makes a new array by applying a function to
+each element from a previous array.
+
+I still have a lot to learn and practice but, this was pretty simple and fun.
